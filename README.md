@@ -13,8 +13,7 @@ This project analyzes Airbnb data to understand trends in listings, reviews, and
 * Dataset prepared using Excel for analysis purposes
 
 **4. Features / Highlights**
-
-* Overview dashboard showing listings distribution and key metrics
-* Reviews analysis to understand customer engagement patterns
-* Ratings insights to compare performance across different locations
-* Use of DAX for calculated measures and KPIs
+📊 Overview dashboard for key metrics and listing distribution
+💬 Reviews analysis to understand user engagement
+⭐ Ratings insights across different locations
+⚡ DAX measures for calculated metrics and KPIs
