@@ -1,4 +1,4 @@
-# Airbnb Performance Dashboard
+# Global Airbnb Performance Dashboard
 
 A simple and interactive dashboard project focused on understanding Airbnb trends through data.
 
